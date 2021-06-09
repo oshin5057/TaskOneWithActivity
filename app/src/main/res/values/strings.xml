@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TaskOneWithActivity</string>
+
+    <string name="search">Search</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email_id">Email Id:</string>
+    <string name="address">Address</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_last_name">Enter your Last Name</string>
+    <string name="save">SAVE</string>
+    <string name="weight">Weight (KG):</string>
+    <string name="height">Height (Feet):</string>
+    <string name="phone_no">Phone No.:</string>
+    <string name="_50">50</string>
+    <string name="height_5_3">5.3</string>
+    <string name="p_no">1234567890</string>
+    <string name="enter_your_weight_in_kg">Enter Your Weight In KG</string>
+    <string name="enter_your_height_in_feet">Enter Your Height in Feet</string>
+    <string name="enter_your_phone_no">Enter your Phone No.</string>
+    <string name="date_value">06-06-2021</string>
+    <string name="date">Date:</string>
+    <string name="enter_date">Enter Date</string>
+</resources>
